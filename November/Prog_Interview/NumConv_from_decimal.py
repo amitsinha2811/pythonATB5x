@@ -1,0 +1,10 @@
+n = int(input("Enter the decimal number: "))
+print("The converted value of decimal number", n, "is:")
+print(int (n), "in decimal")
+print(bin(n), "in Binary")
+print(oct(n),"in octal")
+print(hex(n),"in Hexadecimal")
+
+print("========================================")
+a = str(input("Enter the value for which you want to print ASCII value: "))
+print("the ASCII value of", a, "is",ord(a))
