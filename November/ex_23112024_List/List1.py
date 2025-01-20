@@ -1,7 +1,7 @@
 # Python code to print longest consecutive list.
 
 # Input list initialization
-Input = [12, 13, 14, 17, 18, 23, 24, 25, 25, 26, 27]
+Input = [1,3,13,23.43,7,8,9,10,54,68]
 
 # Output list initialization
 Output = []

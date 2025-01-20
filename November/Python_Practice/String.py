@@ -1,6 +1,5 @@
 # Input = muddasir ahmed
 # Output = mudasir he
-import json
 import pprint
 
 string = "muddasirahmed"

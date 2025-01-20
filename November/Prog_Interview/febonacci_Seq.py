@@ -23,3 +23,10 @@ else:
     print("Febonacci Sequence")
     for i in range(0,n):
         print(fibo(i))
+
+#fectorial of a num
+fectorial =1
+num= int(input("Enter the value of Num here: "))
+for i in range(1,num+1):
+    fectorial = fectorial*i
+print("The fectorial of",num,"is",fectorial)

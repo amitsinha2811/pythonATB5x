@@ -11,7 +11,7 @@ print(len(word))
 # step : 2 to get the character present at even index
 print("Printing only even index chars")
 for i in range(0, size -1,2):
-    print(("index[", i,"]", word[i]))
+    print(("index[",i,"]", word[i]))
 print("======================================")
 
 print("Printing only odd index chars")
